@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "AI-powered peer-to-peer skill exchange marketplace with intelligent AI matching, live sessions, interactive messaging, and gamified XP progression.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
